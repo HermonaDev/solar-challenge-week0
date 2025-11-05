@@ -1,0 +1,13 @@
+data/
+*.csv
+
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+__pycache__/
+*.ipynb_checkpoints/
+
+.DS_Store
