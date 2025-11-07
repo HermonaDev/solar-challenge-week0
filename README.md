@@ -1,11 +1,23 @@
 # Solar Challenge Week 0
 
-Cross-country solar farm analysis for Benin, Sierra Leone, and Togo.
+## 🎯 Project Overview
+Cross-country solar farm analysis for Benin, Sierra Leone, and Togo to support MoonLight Energy Solutions' investment strategy.
 
-## Environment Setup
+## 👤 Contributor
+**HermonaDev** - Sole contributor
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/HermonaDev/solar-challenge-week0.git
-   
-   cd solar-challenge-week0
+## 📁 My Contributions
+- **Repository Architecture**: Designed and implemented entire project structure
+- **CI/CD Pipeline**: Set up GitHub Actions for automated testing
+- **Data Engineering**: Built data cleaning and processing pipelines
+- **Exploratory Analysis**: Developed comprehensive EDA for three countries
+- **Visualization Suite**: Created all required charts and statistical summaries
+- **Documentation**: Wrote comprehensive README and project documentation
+
+## 🚀 Quick Start
+```bash
+git clone https://github.com/HermonaDev/solar-challenge-week0.git
+cd solar-challenge-week0
+python -m venv venv
+source venv/bin/activate  # Windows: .\venv\Scripts\activate
+pip install -r requirements.txt
